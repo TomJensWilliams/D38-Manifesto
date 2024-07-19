@@ -6,16 +6,21 @@
  ## A Brief Word On Clocking In
  	This is a very small issue, but I have noticed that each person clocks in at quite different times, starting something like ten minutes before our assigned shift. After clocking in they each do different things, some of those things actually useful and others not useful, or even detremental. The greater part do work on something at least somewhat useful though, that being moving the appliance out of the middle of the racetrack, which I think might be a mistake, but is at least understandable. Unfortunately some people also use time before their assigned shift for other tasks, such as going around to each of the frieght racks and making modifications on their signs with a marker, often in ways that make no difference at all or have a negative effect. While I understand the positive effect that moving the appliances has I would, perhaps with some caution, suggest that be done after the unload, so as to allow for the next point I would like to address to be easier to implement.
 
-	The Structure (And Existence) Of The Unloader Meeting
+## The Structure (And Existence) Of The Unloader Meeting
+	For the unload team to make progress I believe that the most significant thing that can be done is to begin starting each day off with a meeting, during which stretches can be done and topics can be discussed. This is often either skipped over or done in a very passive manner, but it really needs to be taken seriously if we want to implement positive changes. To get ahead of myself a little bit, further into this document I will make various statements about how we need educate our associates on the roles that need to be filled during the unload, the best ways that equipment can be used, how best to organize various the incoming frieght, and so on. Each of those changes could lead us to having better results, but only if we can actually implement them. This is why the starting meeting is the most important thing to seek improvement on, it will be the way in which we seek imporvement in every other regard going forward.
+ 
+## The Roles Necessary In An Unload
+	Home Depot's End-2-End material tells us that there should be four to six unloaders, with six being preferable, and with that number not counting unload supervisor. Further, it says that two of those associates should be inside the truck and that the other two to four associates should be outside the truck. That is a good start, and the structure I suggest fits within that mold, but I would suggest that we need to get even more specific than that. <Continue Here>
 
-	The Roles Necessary In An Unload
+## The Equipment Necessary In An Unload
 
-	The Equipment Necessary In An Unload
+## The Full-Crew Meething (And That D38 Is One Department)
+
+## The Best Use Of People Limited Time
+
+## The Best Use Of Peoples Less Limited Time
 
 
-
-	The Full-Crew Meething (And That D38 Is One Department)
-
-	The Best Use Of People Limited Time
-
-	The Best Use Of Peoples Less Limited Time
+### Things To Remember
+(Mention the idea of starting off with two people pulling pallets, one experienced and one inexperienced, to get a head start on initial pallets, and to educate newbies)
+(Mention that unloaders should be exposed to different unload roles, so as to minimize the chance that they keep causing reoccuring problems)
